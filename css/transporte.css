@@ -201,6 +201,8 @@ line-height: 1.2em;
     width: 100%;
     display: block;
 }
-.galeria .foto:nth-child(5n+1){
+.galeria .foto:nth-child(5n+1){ /*el primero de cada 5 hijos*/
     margin-left: 0;
 }
+/* fin galeria  */
+/* inicio novedades */
